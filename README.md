@@ -20,5 +20,14 @@ The following picture shows the settings of our Ethereum private chain, as well 
 
 <div align=center><img src="https://user-images.githubusercontent.com/62978386/117529350-c3bbef80-b009-11eb-9b62-dbae53dd06d7.png" alt="logs"/></div>
 
+From the follwing screenshot of Geth client, all risky pseudo-IDs (desensitizing contact information from positive cases) are packaged into a block.
+
+![image](https://user-images.githubusercontent.com/62978386/117545099-f3451900-b056-11eb-9c09-51b235fb6ec4.png)
+
+A demonstration on Ganache:
+
+![image](https://user-images.githubusercontent.com/62978386/117545315-cc3b1700-b057-11eb-8f7d-8e467611f7db.png)
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
