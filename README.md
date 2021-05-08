@@ -1,5 +1,3 @@
-# BeepTrace_release
-A placehoder for BeepTrace App release repo 
 # BeepTrace_release![](https://img.shields.io/badge/license-MIT-blue)
 ## Background
 In order to solve the problem of privacy leakage in the contact tracing of traditional infectious diseases, such as the recent COVID-19 epidemic, we are developing a blockchain-enabled Privacy-preserving contact tracing smartphone application, named BeepTrace.
