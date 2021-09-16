@@ -7,12 +7,9 @@ Based on a sharing concern about user privacy, there are two different modes of 
 ## UI design
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/62978386/117529601-f4e8ef80-b00a-11eb-9c21-b75fab366cf7.png" width="415" height="900" alt="home"/>
-<img src="https://user-images.githubusercontent.com/62978386/117540447-0f8a8b00-b042-11eb-900d-3edbcb02caa7.png" width="415" height="900" alt="home"/>
-</div>
-
-<div align=center>
-<img src="https://user-images.githubusercontent.com/62978386/117541255-968d3280-b045-11eb-8ad4-00893dada297.png" width="830" height="711" alt="home"/>
+<img src="https://beeptrace.com/wp-content/uploads/2021/09/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210910174456-473x1024.jpg" width="415" height="900" alt="home"/>
+<img src="https://beeptrace.com/wp-content/uploads/2021/09/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210910174503-473x1024.jpg" width="415" height="900" alt="home"/>
+<img src="https://beeptrace.com/wp-content/uploads/2021/09/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210910174507-473x1024.jpg" width="830" height="711" alt="home"/>
 </div>
 
 ## Blockchian logs
