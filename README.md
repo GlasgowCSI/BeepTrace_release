@@ -30,3 +30,4 @@ A demonstration on Ganache:
 [MIT](https://choosealicense.com/licenses/mit/)
 
 Code and Legal by Yinghao Ji, Zihao Li. 
+Visual by Kexin Zhang.
